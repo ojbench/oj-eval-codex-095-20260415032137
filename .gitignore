@@ -1,0 +1,6 @@
+.acmoj_token
+.env
+core.*
+local_main.cpp
+submission_ids.log
+logs/
